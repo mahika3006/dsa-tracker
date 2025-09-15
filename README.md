@@ -7,7 +7,7 @@ A personal log to stay consistent with Data Structures & Algorithms practice.
 ## 📅 Daily Log  
 
 ### Day 1 - [Date]
-- ✅ Question 1: [Problem Name / Link]  
+- ✅ Question 1: [jump game-2]  
   - Topic: [Array / String / DP / Graph / etc.]  
   - Platform: [LeetCode / Codeforces / GFG / etc.]  
   - Difficulty: [Easy / Medium / Hard]  

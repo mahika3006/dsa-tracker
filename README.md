@@ -1,4 +1,4 @@
-# 📘 Daily DSA Tracker  
+# 📘 DSA Tracker  
 
 A personal log to stay consistent with Data Structures & Algorithms practice.  
 

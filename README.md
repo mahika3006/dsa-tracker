@@ -13,11 +13,7 @@ A personal log to stay consistent with Data Structures & Algorithms practice.
   - Difficulty: [Easy / Medium / Hard]  
   - Notes: [Key idea, trick, or mistake to remember]  
 
-- ✅ Question 2: [Problem Name / Link]  
-  - Topic:  
-  - Platform:  
-  - Difficulty:  
-  - Notes:  
+  
 
 ---
 
